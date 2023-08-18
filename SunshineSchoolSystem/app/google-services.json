@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90046994088",
+    "project_id": "sunshineschoolsys",
+    "storage_bucket": "sunshineschoolsys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90046994088:android:86d953cd1591c406b5549d",
+        "android_client_info": {
+          "package_name": "com.example.sunshineschoolsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90046994088-fbiai4lp54rclqo3ftf1p36onvdp0fuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDYU--84v3XuxyGMpdZtJ8ObRGXLxQ6Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90046994088-fbiai4lp54rclqo3ftf1p36onvdp0fuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
